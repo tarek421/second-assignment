@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:  sans-serif;
+}
+header{
+    background: #cb96ff75;
+}
+nav img{
+    height: 30px;
+}
+.ml-auto {
+    margin-left: auto;
+}
+header h1{
+    font-size: 72px;
+    margin: -10px 0;
+}
+h1, h2, h3{
+    font-weight: 700;
+    font-family: 'Teko', sans-serif;
+}
+h6{
+    margin: 0;
+    padding: 5px 10px;
+}
+
+header p{
+    line-height: 20px;
+}
+/* =========END HEADER SECTION========== */
+.card-footer {
+    padding: .5rem 1rem;
+    background-color: transparent;
+    border-top: 0;
+}
+.CASUAL-SHOES img{
+    background: aquamarine;
+    border-radius: 20px !important;
+    height: 300px;
+}
+.CASUAL-SHOES h3{
+    letter-spacing: 2px;
+    color: tomato;
+    font-size: 35px;
+}
+.Formal-shoes img{
+    background: aquamarine;
+    border-radius: 20px !important;
+    height: 300px;
+}
+.Formal-shoes h3{
+    letter-spacing: 2px;
+    color: tomato;
+    font-size: 35px;
+}
