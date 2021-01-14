@@ -7,7 +7,14 @@ body{
     box-shadow: 0 0.2rem 1rem rgba(0, 0, 0, 0.1) !important;
 }
 header{
-    background: #cb96ff75;
+    background-image: url(../image/home-bg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: red;
+    height: 100vh;
+}
+nav{
+    background-color: #327dc838 !important;
 }
 nav img{
     height: 30px;
@@ -60,4 +67,26 @@ header p{
     letter-spacing: 2px;
     color: tomato;
     font-size: 35px;
+}
+.offer-section .left{
+    background: #2dc3d2c9;
+}
+.offer-section img{
+    height: 100%;
+}
+.offer-section h2{
+    font-size: 49px;
+    color: blue
+}
+.offer-section h1{
+    font-size: 69px;
+    color: #0b0e37c2
+}
+.offer-section .row{
+    padding: 20px;
+    margin: -10px;
+}
+footer{
+    background: tomato;
+    padding: 20px;
 }
