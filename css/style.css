@@ -10,7 +10,6 @@ header{
     background-image: url(../image/home-bg.webp);
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: red;
     height: 100vh;
 }
 nav{
